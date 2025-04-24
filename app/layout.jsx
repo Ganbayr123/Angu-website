@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Angu Website',
+  title: 'Angu',
   description: 'Welcome to the Angu Website',
 };
 
